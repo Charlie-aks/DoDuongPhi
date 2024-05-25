@@ -1,0 +1,64 @@
+{
+    "categorys":[
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"}
+    ],
+    "banners":[
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"image":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"}
+    ],
+    "products":[
+        {"id":1,"link":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"link":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"link":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"link":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"link":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"},
+        {"id":1,"link":"hinh.jpg","name":"doduongphi","slug":"thoi-trang-nam"}
+    ],
+    "topics":[
+        {"id":1,"name":"nguyenhuutien","slug":"bai-viet-1","description":"bai viet 1"},
+        {"id":2,"name":"nguyenhuutien","slug":"bai-viet-2","description":"bai viet 2"},
+        {"id":3,"name":"nguyenhuutien","slug":"bai-viet-3","description":"bai viet 3"},
+        {"id":4,"name":"nguyenhuutien","slug":"bai-viet-4","description":"bai viet 4"}
+    ],
+    "users":[
+        {"id":1,"name":"nguyenhuutien","email":"tien@gmail.com","phone":"0987654321","image":"hinh.jpg","address":"Thu Duc","roles":"admin"},
+        {"id":2,"name":"nguyenhuutien","email":"tien@gmail.com","phone":"0987654321","image":"hinh.jpg","address":"Thu Duc","roles":"admin"},
+        {"id":3,"name":"nguyenhuutien","email":"tien@gmail.com","phone":"0987654321","image":"hinh.jpg","address":"Thu Duc","roles":"admin"}
+    ],
+    "brands":[
+        {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+        {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+        {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+        {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+        {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+        {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"}
+      ],
+      "contacts":[
+            {"id":1,"image":"hinh.jpg","name":"mỹ duyên","slug":"my-duyen"},
+            {"id":1,"image":"hinh.jpg","name":"mỹ duyên","slug":"my-duyen"},
+            {"id":1,"image":"hinh.jpg", "name":"mỹ duyên","slug":"my-duyen"},
+            {"id":1,"image":"hinh.jpg","name":"mỹ duyên","slug":"my-duyen"}
+    ],
+    "menus":[
+        {"id":1,"link":"hinh.jpg","name":"san-pham-moi"},
+        {"id":1,"link":"hinh.jpg","name":"san-pham-moi"},
+        {"id":1,"link":"hinh.jpg","name":"san-pham-moi"},
+        {"id":1,"link":"hinh.jpg","name":"san-pham-moi"}
+    ],
+    "orders":[
+        {"id":1,"name":"san-pham-moi","phone":"0987654321","email":"no1duongphi","address":"Thu Duc"},
+        {"id":1,"name":"san-pham-moi","phone":"0987654321","email":"no1duongphi","address":"Thu Duc"},
+        {"id":1,"name":"san-pham-moi","phone":"0987654321","email":"no1duongphi","address":"Thu Duc"},
+        {"id":1,"name":"san-pham-moi","phone":"0987654321","email":"no1duongphi","address":"Thu Duc"}
+    ]
+       
+}
